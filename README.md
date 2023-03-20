@@ -8,3 +8,4 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)= <a href=https://www.linkedin.com/in/pskonieczny33>Click!</a>
+![](https://komarev.com/ghpvc/?username=bmalvo&color=brightgreen)
