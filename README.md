@@ -11,7 +11,7 @@ I'm Patryk, a passionate programmer primarily focused on Python and Javascript d
 * ✉️  You can contact me at [p.skonieczny33@gmail.com](mailto:p.skonieczny33@gmail.com)
 * 🚀  I'm currently working on [Small projects created by react\_vite](http://https://github.com/bmalvo/homeworks_react_vite)
 * 🧠  I'm learning React, Django
-* 🤝  I'm open to collaborating on Any projects or collaborating
+* 🤝  I'm open to collaborating on projects or any other form of collaborating
 * ⚡  Many try to follow ninja paths. Few succed.
 
 <a href="https://www.github.com/bmalvo" target="_blank" rel="noreferrer"><img
