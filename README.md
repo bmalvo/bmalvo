@@ -7,7 +7,7 @@ Fullstack Developer / Web Developer
 I'm Patryk, a passionate programmer primarily focused on Python and Javascript development. My goal is to become a fullstack developer or web developer, with a stronger inclination towards backend development and some frontend skills. I'm continuously expanding my knowledge in HTML5, CSS3, JavaScript, MySQL, Bootstrap, React, and Django frameworks. I believe in continuous learning and staying up-to-date with industry trends. I'm enthusiastic about solving problems, writing clean and efficient code, and working in a collaborative environment. If you're interested in working together or have any exciting opportunities, feel free to reach out. I'm eager to join a team where I can contribute my skills and grow as a developer. Let's connect and create something awesome together!
 
 * 🌍  I'm based in Żory, Silesia, Poland
-* 🖥️  See my portfolio at [MyPortfolio](http://https://bmalvo.github.io/Profile-Page/main.html)
+* 🖥️  See my portfolio at [MyPortfolio](https://bmalvo.github.io/Profile-Page/main.html)
 * ✉️  You can contact me at [p.skonieczny33@gmail.com](mailto:p.skonieczny33@gmail.com)
 * 🚀  I'm currently working on [Small projects created by react\_vite](https://github.com/bmalvo/homeworks_react_vite)
 * 🧠  I'm learning React, Django
