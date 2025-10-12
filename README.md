@@ -32,7 +32,6 @@ src="https://img.shields.io/github/followers/bmalvo?logo=github&style=for-the-ba
 ### Badges
 
 Here are my badges earned during [Hacktoberfest](https://www.google.com/search?q=Hacktoberfest):
-[![@bmalvo's Holopin board](https://holopin.io/api/user/board?user=bmalvo)](https://holopin.io/@bmalvo)
 [![An image of @bmalvo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bmalvo)](https://holopin.io/@bmalvo)
 
 <b>My GitHub Stats</b>
