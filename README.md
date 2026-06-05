@@ -14,8 +14,7 @@ I'm Patryk, a passionate programmer primarily focused on Python and Javascript d
 * 🤝  I'm open to collaborating on projects or any other form of collaborating
 * ⚡  Many try to follow ninja paths. Few succed.
 
-<a href="https://www.github.com/bmalvo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/bmalvo?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
+
 
 ### Skills
 
@@ -34,15 +33,7 @@ src="https://img.shields.io/github/followers/bmalvo?logo=github&style=for-the-ba
 Here are my badges earned during [Hacktoberfest](https://www.google.com/search?q=Hacktoberfest):
 [![An image of @bmalvo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bmalvo)](https://holopin.io/@bmalvo)
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/bmalvo"><img src="https://github-readme-stats.vercel.app/api?username=bmalvo&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="bmalvo's GitHub stats" /></a>
-
-<a href="http://www.github.com/bmalvo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmalvo&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<!-- <a href="http://www.github.com/bmalvo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bmalvo&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
-
-<a href="https://github.com/bmalvo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmalvo&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
